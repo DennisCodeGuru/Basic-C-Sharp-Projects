@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\bin\Debug\myTest1.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\bin\Debug\myTest1.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\bin\Debug\myTest1.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\obj\Debug\myTest1.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\obj\Debug\myTest1.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\obj\Debug\myTest1.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\myTest1\myTest1\obj\Debug\myTest1.pdb

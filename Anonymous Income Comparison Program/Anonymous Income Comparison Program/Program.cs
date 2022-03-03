@@ -10,37 +10,38 @@ namespace Anonymous_Income_Comparison_Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Anonymous Income.");
-            //Person 1.
-            Console.WriteLine("Person 1.");
+            // Person 1.
+            Console.WriteLine("Anonymus Income Comparison Program");
+            Console.WriteLine("Person 1");
             Console.WriteLine("Hourly Rate?");
-            string hourRate = Console.ReadLine();
-            Console.WriteLine("Your rate is: " + hourRate);
-
-            Console.WriteLine("Hours worked per week?");
-            string hourWeek = Console.ReadLine();
-            Console.WriteLine("Hours worked per week: " + hourWeek);
+            string hourlyRateInput1 = Console.ReadLine();
+            int rateInput1 = Convert.ToInt32(hourlyRateInput1);
+            Console.WriteLine("Hours Worked per week?");
+            string hoursWorkInput = Console.ReadLine();
+            int workInput1 = Convert.ToInt32(hoursWorkInput);
+            int annualSalary1 = rateInput1 * workInput1 * 52;
 
             //Person 2.
-            Console.WriteLine("Person 2.");
+            Console.WriteLine("Person 2");
             Console.WriteLine("Hourly Rate?");
-            string hourRate1 = Console.ReadLine();
-            Console.WriteLine("Your rate is: " + hourRate1);
+            string hourlyRateInput2 = Console.ReadLine();
+            int rateInput2 = Convert.ToInt32(hourlyRateInput2);
+            Console.WriteLine("Hours Worked per week?");
+            string hoursWorkInput2 = Console.ReadLine();
+            int workInput2 = Convert.ToInt32(hoursWorkInput);
+            int annualSalary2 = rateInput2 * workInput2 * 52;
 
-            Console.WriteLine("Hours worked per week?");
-            string hourWeek1 = Console.ReadLine();
-            Console.WriteLine("Hours worked per week: " + hourWeek1);
+            // Annual Salary.
+            Console.WriteLine("Annual Salary Person1:");
+            Console.WriteLine(annualSalary1);
 
-            //Annual salary.
-            Console.WriteLine("Annual salary of Person 1.\n42,700");
-            Console.WriteLine("Annual salary of Person 2.\n56,400");
+            Console.WriteLine("Annual Salary Person2:");
+            Console.WriteLine(annualSalary2);
 
+            //True or False
+            bool moreSalary = annualSalary1 > annualSalary2;
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            double salaryPerson1 = 42.700;
-            double salaryPerson2 = 56.400;
-            bool isSalary = salaryPerson1 > salaryPerson2;
-            Console.WriteLine(isSalary);
-            Console.ReadLine();
+            Console.WriteLine(moreSalary.ToString());
 
             Console.ReadLine();
         }

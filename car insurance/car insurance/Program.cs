@@ -17,9 +17,8 @@ namespace car_insurance
             int userAge = Convert.ToInt32(ageInput);
             bool ageQualified = userAge >= 15;
             // DUI
-            Console.WriteLine("Have your ever had a DUI?");
-            string hadDuiInput = Console.ReadLine();
-            bool duiQualified = hadDuiInput == "yes" || hadDuiInput == "yes";
+            Console.WriteLine("Have you ever had a DUI? answer true or false.");
+            bool duiQualified = Convert.ToBoolean(Console.ReadLine());
             // Tickets
             Console.WriteLine("How many speeding tickets do you have?");
             string ticketsInput = Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\STRING ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\STRING ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\STRING ASSIGNMENT.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\STRING ASSIGNMENT.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\STRING ASSIGNMENT.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\STRING ASSIGNMENT.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\STRING ASSIGNMENT.pdb

@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\bin\Debug\ConsoleAppAssignment6parts.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\bin\Debug\ConsoleAppAssignment6parts.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\bin\Debug\ConsoleAppAssignment6parts.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\obj\Debug\ConsoleAppAssignment6parts.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\obj\Debug\ConsoleAppAssignment6parts.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\obj\Debug\ConsoleAppAssignment6parts.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsoleAppAssignment6parts\ConsoleAppAssignment6parts\obj\Debug\ConsoleAppAssignment6parts.pdb

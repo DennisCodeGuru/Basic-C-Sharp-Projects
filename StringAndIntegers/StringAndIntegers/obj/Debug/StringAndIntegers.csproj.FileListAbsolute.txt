@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.pdb

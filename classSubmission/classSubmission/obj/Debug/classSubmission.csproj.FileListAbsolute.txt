@@ -1,0 +1,7 @@
+C:\Users\denni\source\repos\classSubmission\classSubmission\bin\Debug\classSubmission.exe.config
+C:\Users\denni\source\repos\classSubmission\classSubmission\bin\Debug\classSubmission.exe
+C:\Users\denni\source\repos\classSubmission\classSubmission\bin\Debug\classSubmission.pdb
+C:\Users\denni\source\repos\classSubmission\classSubmission\obj\Debug\classSubmission.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\classSubmission\classSubmission\obj\Debug\classSubmission.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\classSubmission\classSubmission\obj\Debug\classSubmission.exe
+C:\Users\denni\source\repos\classSubmission\classSubmission\obj\Debug\classSubmission.pdb

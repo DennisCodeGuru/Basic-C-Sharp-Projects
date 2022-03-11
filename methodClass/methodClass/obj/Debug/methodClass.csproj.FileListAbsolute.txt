@@ -5,3 +5,10 @@ C:\Users\denni\Desktop\Basic_C#_Programs\methodClass\methodClass\obj\Debug\metho
 C:\Users\denni\Desktop\Basic_C#_Programs\methodClass\methodClass\obj\Debug\methodClass.csproj.CoreCompileInputs.cache
 C:\Users\denni\Desktop\Basic_C#_Programs\methodClass\methodClass\obj\Debug\methodClass.exe
 C:\Users\denni\Desktop\Basic_C#_Programs\methodClass\methodClass\obj\Debug\methodClass.pdb
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.exe.config
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.exe
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.pdb
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.csproj.AssemblyReference.cache
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.exe
+C:\Users\denni\Documents\GitHub\Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.pdb

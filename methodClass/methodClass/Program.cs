@@ -12,9 +12,8 @@ namespace methodClass
         public static int numTwo = 2022;
         static void Main(string[] args)
         {
-            myMath myClass = new myMath();
-            myClass.SubtractionMethod(18, 22);
-            myClass.SubtractionMethod(numOne, numTwo);
+            myMath myClass = new myMath();            
+            myClass.SubtractionMethod(numOne:18, numTwo:22);
 
             Console.ReadLine();
         }

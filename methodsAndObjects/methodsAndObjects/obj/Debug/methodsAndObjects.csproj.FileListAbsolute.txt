@@ -1,0 +1,7 @@
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.exe.config
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.exe
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.pdb
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.exe
+C:\Users\denni\source\repos\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.pdb

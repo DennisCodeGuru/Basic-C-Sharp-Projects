@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\bin\Debug\OperAssignment.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\bin\Debug\OperAssignment.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\bin\Debug\OperAssignment.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\obj\Debug\OperAssignment.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\obj\Debug\OperAssignment.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\obj\Debug\OperAssignment.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\OperAssignment\OperAssignment\obj\Debug\OperAssignment.pdb

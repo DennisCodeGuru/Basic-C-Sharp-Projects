@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\bin\Debug\ConsTrucTor.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\bin\Debug\ConsTrucTor.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\bin\Debug\ConsTrucTor.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\obj\Debug\ConsTrucTor.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\obj\Debug\ConsTrucTor.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\obj\Debug\ConsTrucTor.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\ConsTrucTor\ConsTrucTor\obj\Debug\ConsTrucTor.pdb

@@ -1,0 +1,7 @@
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\bin\Debug\exception.exe.config
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\bin\Debug\exception.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\bin\Debug\exception.pdb
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\obj\Debug\exception.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\obj\Debug\exception.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\obj\Debug\exception.exe
+C:\Users\denni\Desktop\Basic_C#_Programs\exception\exception\obj\Debug\exception.pdb

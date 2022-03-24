@@ -4,9 +4,11 @@ using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
+using Newtonsoft.Json.Linq;
 
 namespace CarInsurance.Controllers
 {
@@ -20,7 +22,7 @@ namespace CarInsurance.Controllers
 
             decimal quote = 50;                                     //Start with a base of $50 / month.
             if (years <= 18) quote += 100;                          //If the user is 18 and under, add $100 to the monthly total.
-            if (years >= 19 && years < 25) quote += 50;             //If the user is between 19 and 25, add $50 to the monthly total.
+            if (years >= 19 && years <= 25) quote += 50;             //If the user is between 19 and 25, add $50 to the monthly total.
             if (years > 25) quote += 25;                            //If the user is over 25, add $25 to the monthly total.
             if (insuree.CarYear < 2000) quote += 25;                //If the car's year is before 2000, add $25 to the monthly total.
             if (insuree.CarYear > 2015) quote += 25;                //If the car's year is after 2015, add $25 to the monthly total.
@@ -149,7 +151,5 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
-
-        
     }
 }

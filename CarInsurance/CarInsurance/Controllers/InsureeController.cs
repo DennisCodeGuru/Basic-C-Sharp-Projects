@@ -36,8 +36,7 @@ namespace CarInsurance.Controllers
             return Math.Floor(quote * 100) / 100;                   //Remove any fraction of a cent.
         }
 
-
-        private InsuranceEntities db = new InsuranceEntities();
+        private readonly InsuranceEntities db = new InsuranceEntities();
 
         // GET: Insuree
         public ActionResult Index()
@@ -75,6 +74,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -107,6 +107,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -148,5 +149,7 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+
+        
     }
 }
